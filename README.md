@@ -19,6 +19,7 @@ An open source interface for Uniswap -- a protocol for decentralized exchange of
   - [V1](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
   - [V2](https://uniswap.org/whitepaper.pdf)
   - [V3](https://uniswap.org/whitepaper-v3.pdf)
+  - [V4](https://uniswap.org/whitepaper-v1.pdf)
 
 ## Accessing the Uniswap Interface
 
